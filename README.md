@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi ,I'm Jegan! 👋
 
-<!--
-**JeganT143/JeganT143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student with a focus on transforming pixels into insights with **Computer Vision**. I enjoy diving into **Machine Learning**, **AI**, and **Digital Signal & Image Processing** to build solutions that make a difference. My background in computing and electronics fuels my passion for **real-time applications** and problem-solving.
 
-Here are some ideas to get you started:
+- 🔍 **Areas of Interest:** Computer Vision, Machine Learning, AI, Backend Development, Logical Thinking
+- 🎓 **Education:** Faculty of Engineering, University of Ruhuna
+- ⚙️ **Technical Skills:** Python, Verilog, Digital Signal Processing, FPGA, Machine Learning Algorithms
+- 💡 **What I Believe:** Innovation should simplify and solve real-world challenges. I aim to turn images and signals into meaningful insights for industry and society.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m always looking to learn and work on exciting projects that challenge me to improve. Let’s connect!
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jegant)
