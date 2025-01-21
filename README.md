@@ -47,18 +47,7 @@ I am a **Computer Engineering** student with a passion for **Machine Learning**,
   <a href="https://linkedin.com/in/jegant" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" />
   </a>
-  <a href="https://stackoverflow.com/users/21649960" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" height="40" />
-  </a>
-  <a href="https://medium.com/@jegant" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium" height="40" />
-  </a>
-  <a href="https://www.hackerrank.com/@eg_2021_4590" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" height="40" />
-  </a>
-  <a href="https://leetcode.com/u/jegant/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="40" />
-  </a>
+
 </p>
 
 ---
