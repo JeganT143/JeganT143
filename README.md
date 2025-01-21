@@ -50,9 +50,6 @@ I am a **Computer Engineering** student with a passion for **Machine Learning**,
   <a href="https://stackoverflow.com/users/21649960" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" height="40" />
   </a>
-  <a href="https://kaggle.com/jegant" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/kaggle.png" alt="Kaggle" height="40" />
-  </a>
   <a href="https://medium.com/@jegant" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium" height="40" />
   </a>
