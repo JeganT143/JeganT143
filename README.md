@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=gradient&customColorList=6,11,20&text=JEGAN&fontSize=80&fontColor=fff&stroke=fff&strokeWidth=2&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Computer%20Vision%20Specialist%20%7C%20AI%20Developer&descSize=20&descAlignY=58&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20&text=Hi%20there,%20I'm%20Jegan%20👋&fontSize=50&fontColor=fff&fontAlignY=40&desc=Machine%20Learning%20Engineer%20|%20Computer%20Vision%20Specialist%20|%20AI%20Developer&descSize=18&descAlignY=55&animation=fadeIn" />
 
 </div>
 
@@ -9,12 +9,16 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 </p>
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
+<p align="center">
+  <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+</p>
+
+<br/>
 
 <table align="center">
 <tr>
@@ -22,29 +26,34 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const developer = {
-  name: "Jegan",
-  role: "Computer Engineering Student",
-  institution: "University of Ruhuna",
-  location: "Sri Lanka 🇱🇰",
-  
-  specialization: [
-    "Machine Learning",
-    "Computer Vision",
-    "Deep Learning",
-    "Backend Development"
-  ],
-  
-  currentFocus: [
-    "Advanced ML Models",
-    "MLOps & Deployment",
-    "Real-time AI Systems"
-  ],
-  
-  philosophy: "Innovation through Simplicity",
-  status: "Available for opportunities"
-};
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Jegan"
+        self.role = "Computer Engineering Student"
+        self.institution = "University of Ruhuna"
+        self.location = "Sri Lanka 🇱🇰"
+        
+        self.specialization = [
+            "Machine Learning",
+            "Computer Vision",
+            "Deep Learning",
+            "Backend Development"
+        ]
+        
+        self.current_focus = [
+            "Advanced ML Models",
+            "MLOps & Deployment",
+            "Real-time AI Systems"
+        ]
+        
+        self.philosophy = "Innovation through Simplicity"
+        self.status = "Available for opportunities"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = Developer()
 ```
 
 </td>
@@ -76,11 +85,13 @@ const developer = {
 </tr>
 </table>
 
-<br clear="right"/>
-
 <br/>
 
+<div align="center">
+
 ## 🛠️ Technology Arsenal
+
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -140,10 +151,14 @@ const developer = {
 
 <br/>
 
+<div align="center">
+
 ## 📊 GitHub Analytics
 
+</div>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="800">
 </p>
 
 <div align="center">
@@ -166,7 +181,11 @@ const developer = {
 
 <br/>
 
+<div align="center">
+
 ## 🏆 GitHub Achievements
+
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="80" />
@@ -180,7 +199,11 @@ const developer = {
 
 <br/>
 
+<div align="center">
+
 ## 📫 Let's Connect & Collaborate
+
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
@@ -241,7 +264,9 @@ Interests:
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=jegant143&style=for-the-badge&color=58a6ff&label=Profile+Views" alt="Profile Views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jegant143&style=for-the-badge&color=58a6ff&label=Profile+Views" alt="Profile Views" />
+</p>
 
 </div>
 
