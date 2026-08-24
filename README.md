@@ -1,289 +1,57 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm <a href="https://jegant.dev" target="blank">Jegan Thiruppathi</a></h1>
+<h3 align="center">An AI Engineer from Sri Lanka 🇱🇰, building intelligent applications with RAG, agents & Big Data</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20&text=Hi%20there,%20I'm%20Jegan%20👋&fontSize=50&fontColor=fff&fontAlignY=40&desc=Machine%20Learning%20Engineer%20|%20Computer%20Vision%20Specialist%20|%20AI%20Developer&descSize=18&descAlignY=55&animation=fadeIn" />
-
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Transforming+Data+into+Insights;Solving+Real-World+Problems+with+AI" alt="Typing Animation" />
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=JeganT143&label=Profile%20views&color=0e75b6&style=flat" alt="JeganT143" />
 </p>
 
+<a target="_blank">
+<img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</a>
+
+<ul>
+<li><p>🌱 I'm currently building <strong>RAG pipelines, multi-agent systems &amp; LLM evaluation frameworks</strong></p></li>
+<li><p>🎓 I'm studying <strong>Computer Engineering</strong> at the University of Ruhuna, Sri Lanka</p></li>
+<li><p>🤝 I'm open to <strong>full-time AI/ML roles, internships &amp; research collaborations</strong></p></li>
+<li><p>💬 Ask me about <strong>RAG, LLM evaluation, FastAPI &amp; Big Data pipelines</strong></p></li>
+<li><p>📫 How to reach me <strong><a href="mailto:hello@jegant.dev">hello@jegant.dev</a></strong></p></li>
+<li><p>📄 Know about my experience: <a href="https://jegant.dev" target="blank">Portfolio</a></p><br></li>
+</ul>
+
+<h3 align="center">Connect with me 🤝</h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+<a href="https://linkedin.com/in/jegant" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" /></a>
+<a href="https://github.com/JeganT143" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" /></a>
+<a href="https://jegant.dev" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/domain--v1.png" /></a>
+<a href="mailto:hello@jegant.dev" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/gmail--v1.png" /></a>
 </p>
 
-<br/>
-
+<h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
-  <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
-<br/>
+<h3 id="projects">🚀 Featured Projects</h3>
+<ul>
+<li><p><strong><a href="https://github.com/JeganT143/AgentEvalGate" target="blank">AgentEvalGate</a></strong> — Merge-blocking CI evaluation gate for RAG systems; cut worst-case API abuse cost from $201/mo to $6.69/mo</p></li>
+<li><p><strong><a href="https://github.com/JeganT143/FinSightAI" target="blank">FinSightAI</a></strong> — Adversarial 4-agent equity research platform grounded in SEC EDGAR filings, deployed on Azure at near-$0/mo idle</p></li>
+<li><p><strong><a href="https://github.com/JeganT143/Automated-Document-Analysis-and-OCR-System-for-Multi-Format-Documents" target="blank">Automated Document Analysis &amp; OCR System</a></strong> — Hybrid CV + LLM pipeline cutting character error rate from 6.43% to 0.34%</p></li>
+</ul>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-## 👨‍💻 About Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Jegan"
-        self.role = "Computer Engineering Student"
-        self.institution = "University of Ruhuna"
-        self.location = "Sri Lanka 🇱🇰"
-        
-        self.specialization = [
-            "Machine Learning",
-            "Computer Vision",
-            "Deep Learning",
-            "Backend Development"
-        ]
-        
-        self.current_focus = [
-            "Advanced ML Models",
-            "MLOps & Deployment",
-            "Real-time AI Systems"
-        ]
-        
-        self.philosophy = "Innovation through Simplicity"
-        self.status = "Available for opportunities"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = Developer()
-```
-
-</td>
-<td width="50%" valign="top">
-
-## 🎯 Core Competencies
-
-<br/>
-
-### 🤖 Artificial Intelligence
-- Machine Learning Model Development
-- Computer Vision & Image Processing
-- Neural Network Architecture Design
-- Real-time System Implementation
-
-### 💻 Software Engineering
-- Full-stack Web Development
-- RESTful API Design & Development
-- Database Design & Optimization
-- System Architecture & Scalability
-
-### 📊 Data Science
-- Data Analysis & Visualization
-- Statistical Modeling
-- Feature Engineering
-- Model Evaluation & Tuning
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-## 🛠️ Technology Arsenal
-
-</div>
-
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JeganT143&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeganT143&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<div align="center">
-
-### **Programming Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&shadow=0px_0px_10px_#3776AB)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&shadow=0px_0px_10px_#00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&shadow=0px_0px_10px_#F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **AI/ML & Data Science**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-### **Web Development & Frameworks**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### **Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="800">
-</p>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jegant143&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&border_radius=10" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jegant143&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9&langs_count=8&border_radius=10" />
-
-</div>
-
-<div align="center">
-<br/>
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com?user=jegant143&theme=vue-dark&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B35&currStreakLabel=00F5FF&sideNums=C9D1D9&dates=8B949E&border_radius=10" />
-</div>
-
-<br/>
-
-<div align="center">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jegant143&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F5FF&line=00F5FF&point=00F5FF&area=true&border_radius=10" />
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🏆 GitHub Achievements
-
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="80" />
-</p>
-
-<div align="center">
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=jegant143&theme=discord&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 📫 Let's Connect & Collaborate
-
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</p>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 💼 Professional
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jegant)
-
-**Connect on LinkedIn**
-
-</td>
-<td align="center" width="33%">
-
-### 💻 Development
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jegant143)
-
-**Follow on GitHub**
-
-</td>
-<td align="center" width="33%">
-
-### 📧 Direct Contact
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-**Send an Email**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🤝 Open For
-
-```yaml
-Opportunities:
-  - Full-time positions in ML/AI Engineering
-  - Internships in Computer Vision & Deep Learning
-  - Research collaborations in AI/ML
-  - Open source contributions
-  - Freelance ML projects
-  
-Interests:
-  - Cutting-edge AI/ML projects
-  - Real-world problem solving
-  - Innovative tech solutions
-  - Knowledge sharing & mentorship
-```
-
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jegant143&style=for-the-badge&color=58a6ff&label=Profile+Views" alt="Profile Views" />
-</p>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### 💡 "The best way to predict the future is to invent it." - Alan Kay
-
-<sub>⭐ From [jegant143](https://github.com/jegant143) | Last Updated: November 2024</sub>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" />
-</div>
+<hr>
+<p>Credit: <a href="https://github.com/JeganT143">Jegan Thiruppathi</a></p>
