@@ -47,11 +47,25 @@
 <li><p><strong><a href="https://github.com/JeganT143/Automated-Document-Analysis-and-OCR-System-for-Multi-Format-Documents" target="blank">Automated Document Analysis &amp; OCR System</a></strong> — Hybrid CV + LLM pipeline cutting character error rate from 6.43% to 0.34%</p></li>
 </ul>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📈 Contribution Graph</h3>
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JeganT143&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeganT143&layout=compact&theme=radical&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeganT143/JeganT143/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/JeganT143/JeganT143/output/github-contribution-grid-snake.svg" />
+</picture>
 </p>
+
+<h3 align="center">⚡ How I Work</h3>
+<p align="center">
+🧠 Read the paper before copying the repo &nbsp;•&nbsp;
+🧪 Test the failure case, not just the happy path &nbsp;•&nbsp;
+📦 Ship it small, ship it working &nbsp;•&nbsp;
+🔁 Iterate in public
+</p>
+
+<blockquote align="center">
+"Make it work, make it right, make it fast." — Kent Beck
+</blockquote>
 
 <hr>
 <p>Credit: <a href="https://github.com/JeganT143">Jegan Thiruppathi</a></p>
