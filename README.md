@@ -55,12 +55,20 @@
 </picture>
 </p>
 
-<h3 align="center">⚡ How I Work</h3>
+<h3 align="center">⚙️ How I Work</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">🔍<br><b>Understand</b><br><sub>Problem · Data · Metrics</sub></td>
+    <td align="center">🏗️<br><b>Design</b><br><sub>Baselines · Architecture</sub></td>
+    <td align="center">💻<br><b>Build</b><br><sub>Code · Experiments</sub></td>
+    <td align="center">🧪<br><b>Evaluate</b><br><sub>Quality · Cost · Reliability</sub></td>
+    <td align="center">🚀<br><b>Deploy</b><br><sub>Monitor · Improve</sub></td>
+  </tr>
+</table>
+
 <p align="center">
-🧠 Read the paper before copying the repo &nbsp;•&nbsp;
-🧪 Test the failure case, not just the happy path &nbsp;•&nbsp;
-📦 Ship it small, ship it working &nbsp;•&nbsp;
-🔁 Iterate in public
+  <i>Build with evidence. Evaluate with rigor. Ship with confidence.</i>
 </p>
 
 <blockquote align="center">
